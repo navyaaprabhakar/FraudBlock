@@ -14,7 +14,7 @@
 1. Any chromium based browser i.e. Chrome 
 2. Metamask browser extension
     
-## setup process 
+## Setup Process 
 
 1. Clone the project
 ```
